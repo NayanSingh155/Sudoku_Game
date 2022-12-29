@@ -5,7 +5,7 @@
 A Web Application to play a famous game sudoku. User can play sudoku here and test his brain and a lot of fun.
 
 <h4>User Can visit here </h4>
-<a href="https://steady-cendol-1a5f7c.netlify.app/">https://steady-cendol-1a5f7c.netlify.app/</a>
+<a href="https://friendly-narwhal-c19638.netlify.app/"</a>
 
 <h3>Screenshot</h3>
 
